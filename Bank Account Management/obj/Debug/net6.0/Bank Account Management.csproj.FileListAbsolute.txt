@@ -1,0 +1,15 @@
+C:\Users\ValentynTukov\source\repos\Bank Account Management\Bank Account Management\bin\Debug\net6.0\Bank Account Management.exe
+C:\Users\ValentynTukov\source\repos\Bank Account Management\Bank Account Management\bin\Debug\net6.0\Bank Account Management.deps.json
+C:\Users\ValentynTukov\source\repos\Bank Account Management\Bank Account Management\bin\Debug\net6.0\Bank Account Management.runtimeconfig.json
+C:\Users\ValentynTukov\source\repos\Bank Account Management\Bank Account Management\bin\Debug\net6.0\Bank Account Management.dll
+C:\Users\ValentynTukov\source\repos\Bank Account Management\Bank Account Management\bin\Debug\net6.0\Bank Account Management.pdb
+C:\Users\ValentynTukov\source\repos\Bank Account Management\Bank Account Management\obj\Debug\net6.0\Bank Account Management.csproj.AssemblyReference.cache
+C:\Users\ValentynTukov\source\repos\Bank Account Management\Bank Account Management\obj\Debug\net6.0\Bank Account Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ValentynTukov\source\repos\Bank Account Management\Bank Account Management\obj\Debug\net6.0\Bank Account Management.AssemblyInfoInputs.cache
+C:\Users\ValentynTukov\source\repos\Bank Account Management\Bank Account Management\obj\Debug\net6.0\Bank Account Management.AssemblyInfo.cs
+C:\Users\ValentynTukov\source\repos\Bank Account Management\Bank Account Management\obj\Debug\net6.0\Bank Account Management.csproj.CoreCompileInputs.cache
+C:\Users\ValentynTukov\source\repos\Bank Account Management\Bank Account Management\obj\Debug\net6.0\Bank Account Management.dll
+C:\Users\ValentynTukov\source\repos\Bank Account Management\Bank Account Management\obj\Debug\net6.0\refint\Bank Account Management.dll
+C:\Users\ValentynTukov\source\repos\Bank Account Management\Bank Account Management\obj\Debug\net6.0\Bank Account Management.pdb
+C:\Users\ValentynTukov\source\repos\Bank Account Management\Bank Account Management\obj\Debug\net6.0\Bank Account Management.genruntimeconfig.cache
+C:\Users\ValentynTukov\source\repos\Bank Account Management\Bank Account Management\obj\Debug\net6.0\ref\Bank Account Management.dll
